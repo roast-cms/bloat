@@ -1,2 +1,2 @@
 # bloat
-An honest web developer's blog.
+Just another web developer's blog. A few tips and solutions that I had time to write-up.
